@@ -1,0 +1,10 @@
+Current User - Total Energy: 0.312 kWh - Bill: $0.0468
+Current User - Total Energy: 0.8214285714285714 kWh - Bill: $0.1232142857142857
+Current User - Total Energy: 1.6228571428571428 kWh - Bill: $0.2434285714285714
+Current User - Total Energy: 1.6228571428571428 kWh - Bill: $0.2434285714285714
+Current User - Total Energy: 1.6228571428571428 kWh - Bill: $0.2434285714285714
+Current User - Total Energy: 1.6557142857142857 kWh - Bill: $0.24835714285714283
+Current User - Total Energy: 11.5 kWh - Bill: $1.7249999999999999
+Current User - Total Energy: 11.0 kWh - Bill: $1.65
+Current User - Total Energy: 11.0 kWh - Bill: $1.65
+Current User - Total Energy: 11.0 kWh - Bill: $1.65

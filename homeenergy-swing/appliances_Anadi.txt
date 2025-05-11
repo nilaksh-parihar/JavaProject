@@ -1,0 +1,4 @@
+Bilab - 20W - 24h/day - 0.48 kWh/day
+washing machine - 200W - 4h/day - 0.8 kWh/day
+AC - 1900W - 5h/day - 9.5 kWh/day
+fan - 10W - 22h/day - 0.22 kWh/day

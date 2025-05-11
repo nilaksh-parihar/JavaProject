@@ -1,0 +1,3 @@
+Charger - 65W - 10h/day - 0.65 kWh/day
+Geezer - 120W - 1h/day - 0.12 kWh/day
+Rishant - 1000W - 12h/day - 12.0 kWh/day
